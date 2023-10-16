@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ng-ha/jest/issues"
   },
-  "homepage": "https://github.com/ng-ha/jest#readme"
+  "homepage": "https://github.com/ng-ha/jest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
